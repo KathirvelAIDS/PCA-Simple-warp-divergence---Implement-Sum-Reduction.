@@ -42,9 +42,9 @@ Atlast , free the host and device memory then reset the device and check for res
 
 ## Program :
 
-**Name : Anto Richard. S**
+**Name : KATHIRVEL.A**
 
-**Reg no : 212221240005**
+**Reg no : 212221230047**
 
 ### Common.h :
 
